@@ -17,7 +17,7 @@ Cada mando dispone de su propio archivo .ini, con una configuración de botones,
 
 🎯 Juegos
 
-Las configuraciones están orientadas principalmente a juegos de Wii, especialmente Super Smash Bros. Brawl.
+Las configuraciones están orientadas principalmente a juegos de Wii, especialmente Super Smash Bros Brawl.
 
 ⚙️ Instalación
 
